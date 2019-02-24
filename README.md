@@ -29,7 +29,7 @@ Step 4. To run this program type this command:
 ```
 $ ./a.out (If you compiled using first command)
 ```
-Or
+(or)
 ```
 $ ./hello (If you compiled using second command)
 ```
