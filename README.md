@@ -2,13 +2,14 @@
 Office Payroll Management System using C++ Programming
 ## Execution
 Linux :
+
 Step 1. Open terminal.
 
 Step 2. Type command to install gcc or g++ complier:
 ```
 $ sudo apt-get install build-essential
 ```
-This will install the necessary C++ development libraries for your Ubuntu to create C++ programs.
+This will install the necessary C++ development libraries for your Ubuntu to create C++ programs.<br>
 To check g++ version type this command:
 ```
 $ g++ –version or g++ –v
